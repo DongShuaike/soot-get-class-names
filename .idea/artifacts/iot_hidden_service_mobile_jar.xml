@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iot-hidden-service-mobile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/iot_hidden_service_mobile_jar</output-path>
+    <root id="archive" name="iot-hidden-service-mobile.jar">
+      <element id="module-output" name="iot-hidden-service-mobile" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../FlowDroid/soot-infoflow-cmd/target/soot-infoflow-cmd-classes.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../FlowDroid/soot-infoflow-android/target/soot-infoflow-android-classes.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../FlowDroid/soot-infoflow-summaries/target/soot-infoflow-summaries-classes.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../FlowDroid/soot-infoflow-summaries/target/soot-infoflow-summaries-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../FlowDroid/soot-infoflow/target/soot-infoflow-classes.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot/target/sootclasses-trunk.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.jms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.resource.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.ejb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.persistence.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.annotation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.transaction.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../FlowDroid/soot-infoflow-cmd/target/soot-infoflow-cmd-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
